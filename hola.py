@@ -3,13 +3,13 @@ Inserta el encabezado aquí y escribe tu código abajo
 """
 
 # Declaraciones
-CONSTANTE = valor
+
 
 # Entradas
-entrada = input()
+entrada = input("hola mundo")
 
 # Proceso
 
 
 # Salidas
-print(salida)
+print(entrada)
